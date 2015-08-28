@@ -1,0 +1,27 @@
+{
+  "name": "cbpGridGallery",
+  "version": "1.0.0",
+  "authors": [
+    "Vladimir Odesskij <odesskij1992@gmail.com>"
+  ],
+  "main": [
+    "cbpGridGallery.js",
+    "classie.js"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr.amd": "*",
+    "imagesloaded": "~3.1.8",
+    "masonry": "~3.3.2"
+  }
+}
